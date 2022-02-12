@@ -1,0 +1,9 @@
+name: DigDigDig
+version: ${project.version}
+main: invertedowl.digdigdig.DigDigDig
+api-version: 1.18
+description: Main plugin for DigDigDig
+
+commands:
+  startGame:
+  joinGame:
